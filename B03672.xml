@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Holland turn'd to tinder, or Englands third great royal victory. Being an exact narrative brought by Captain Talbot Commander of the Elizabeth a fourth rate frigat of the blew [sic] squadron ... which news hath been continued here by other persons from aboard the Royal Charles, who give account of a total rout to the Dutch, ... All this was performed on Wednesday and Thursday 25. and 26. of July, 1666. The tune is, Packingtons pound.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03672</idno>
+            <idno type="STC">Wing H2445A</idno>
+            <idno type="STC">ESTC R178086</idno>
+            <idno type="EEBO-CITATION">47012477</idno>
+            <idno type="OCLC">ocm 47012477</idno>
+            <idno type="VID">174443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03672)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174443)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2689:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Holland turn'd to tinder, or Englands third great royal victory. Being an exact narrative brought by Captain Talbot Commander of the Elizabeth a fourth rate frigat of the blew [sic] squadron ... which news hath been continued here by other persons from aboard the Royal Charles, who give account of a total rout to the Dutch, ... All this was performed on Wednesday and Thursday 25. and 26. of July, 1666. The tune is, Packingtons pound.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Crowch, for F. Coles, T. Vere, and J. Wright.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1666]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date taken from Wing (2nd ed.)</note>
+                  <note>Contains 4 illustrations.</note>
+                  <note>Right half sheet contains "The second Part, to the same Tune."</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Naval battles --  Great Britain --  17th century --  Poetry.</term>
+               <term>Anglo-Dutch War, 1664-1667 --  Campaigns --  North Sea.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Poetry.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174443:1"/>
+            <!-- PDF PAGE 30 -->
+            <head>Holland turn'd to Tinder, OR, <hi>ENGLANDS</hi> Third Great Royal VICTORY.</head>
+            <argument>
+               <p>Being an exact Narrative brought by Captain <hi>Talbot</hi> Commander of the <hi>Elizabeth</hi> a fourth rate Frigat of the Blew Squadron who on wedneſday night came into <hi>Harwitch,</hi> and ſent an Expreſs to the KING at <hi>White-hall,</hi> of all that had paſt betwixt both the fleets, before and in the Fight: which news hath been continued ſince by other rerſons from aboard the Royal Charles, who give account of a total Rout given to the <hi>Dutch,</hi> and a great Victory obtained againſt them, inſomuch that they are beaten and block'd in their own Harbors: All this was performed on <date>Wedneſday and Thurſday 25. and 26. of <hi>July,</hi> 1666.</date>
+               </p>
+            </argument>
+            <opener>The Tune is, Packingtons pound.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe weather is clear, which was late over caſt</l>
+                  <l>&amp; our long expectation's are anſwer'd at laſt,</l>
+                  <l>With News from the Navie, which I ſhal impart</l>
+                  <l>Enough to rejoyce every <unclear>Engliſh-mans</unclear> heart,</l>
+                  <l>That's honeſt and true,</l>
+                  <l>(And is not a <hi>Jew</hi>)</l>
+                  <l>but would give to God and to <hi>Ceſar</hi> his Due,</l>
+                  <l>This will be a joyfull and Royal Relation</l>
+                  <l>To ſuch as love God, the King, and the Nation:</l>
+                  <l>thoſe <hi>D<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tel</hi> Demigorgons, Gods power convinces</l>
+                  <l>&amp; makes them all Servant, y<hi rend="sup">t</hi> aim'd to be Princes.</l>
+               </lg>
+               <lg>
+                  <l>On Wedneſday laſt, the twenty fift day of <hi>July</hi>
+                  </l>
+                  <l>Came in this Narration which Ile tell ye truly,</l>
+                  <l>From brave Cay<g ref="char:punc">▪</g> 
+                     <hi>Talbot</hi> a man of ſtout carriage</l>
+                  <l>That then brought a part of this News into <hi>Harwich,</hi>
+                  </l>
+                  <l>Both Ruine and Rage.</l>
+                  <l>(In brave Equipage)</l>
+                  <l>Laſt wedneſday at noone both y<hi rend="sup">e</hi> fléets did ingage</l>
+                  <l>The winds were our freinds, &amp; did fly out our ſails</l>
+                  <l>With very freſh Northerly brave top-ſail gales</l>
+                  <l>We din'd with the <hi>Hogens</hi> upon their own Coaſt,</l>
+                  <l>You might a had <hi>Dutch-men</hi> there boild or roaſt,</l>
+               </lg>
+               <lg>
+                  <l>At firſt both the Navies did fight in a Line,</l>
+                  <l>Thrée hours with much fury &amp; force (but in fine)</l>
+                  <l>The Enemies Fléet into thrée Squadrons flew,</l>
+                  <l>And Sir <hi>Jeremie Smith</hi> (Admiral of the Blew)</l>
+                  <l>By lot was to face,</l>
+                  <l>Perſue, and to Chaſe</l>
+                  <l>out the <hi>Zelanders</hi> Squadron, y<hi rend="sup">e</hi> ſtrongeſt that was</l>
+                  <l>They fought it out furiouſly, all the day after,</l>
+                  <l>And fiercely incounter'd, like wild-fire &amp; water,</l>
+                  <l>A Frigat of ours called the Reſolution,</l>
+                  <l>Was burnt by the Dutch in this depth of confu<g ref="char:EOLhyphen"/>ſion.</l>
+               </lg>
+               <lg>
+                  <l>The white and red ſquadrons did ply y<hi rend="sup">•</hi> two other</l>
+                  <l>So faſt y<hi rend="sup">t</hi> they almoſt were choak'd with y<hi rend="sup">e</hi> ſmother</l>
+                  <l>They tugg'd very hard who ſhould ſtand it out longeſt,</l>
+                  <l>Our blew was y<hi rend="sup">e</hi> weakeſt, the <hi>Zealand</hi> the  ſtrongeſt</l>
+                  <l>And yet they fight,</l>
+                  <l>'Till ſo late at night,</l>
+                  <l>that powder and darkneſs depriv'd them of ſight</l>
+                  <l>The two <hi>Hollan<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> ſquadrons both turn'd tail &amp; fled</l>
+                  <l>Purſued by the ſquadrons of our White and Red,</l>
+                  <l>Vpon thurſday morning betwixt nine and ten,</l>
+                  <l>The <hi>Zealand's</hi> were cripled and hopp'd home agen.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Part,</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>TO aid y<hi rend="sup">e</hi> blew ſquadron a thouſand ſtout men</l>
+                  <l>Were ſent (in five frigats) by ſir <hi>William Pen,</hi>
+                  </l>
+                  <l>And <hi>Talbot</hi> doth tell us ere he did retire,</l>
+                  <l>On wedneſday night he ſaw ſix <hi>Dutch</hi> ſhips on fire,</l>
+                  <l>Two hundred almoſt</l>
+                  <l>Of our men were loſt,</l>
+                  <l>ſuch victories ſeldom are gain'd without coſt,</l>
+                  <l>The <hi>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ealanders</hi> Admiral ſome think is gone</l>
+                  <l>Vnto his laſt home, when his ſtag was ſhot down,</l>
+                  <l>'Tis highly preſum'd by the beſt knowing men,</l>
+                  <l>They nere will be able to fight us agen.</l>
+               </lg>
+               <lg>
+                  <l>The preſtmen (wel mingl'd with ſtout voluntiers</l>
+                  <l>Did drink away dolor and fight away fears:</l>
+                  <l>Our ſmall ſhot did ſtand to't with valiant deſire,</l>
+                  <l>Their Guns ſpit &amp; ſparkl'd like bay-leaves in fire</l>
+                  <l>Our Canons did roare</l>
+                  <l>They ſunk and they tore.</l>
+                  <l>thouſands that heard them will nere hear them more.</l>
+                  <l>It is better far in a good cauſe to dye,</l>
+                  <l>Then with a bad conſcience to live great &amp; high:</l>
+                  <l>And in act: of honour there's no better thing,</l>
+                  <l>Then dye a true Martyr for God and the King.</l>
+               </lg>
+               <lg>
+                  <l>Our white and red ſquadrons <hi>Du Ruiter</hi> engag'd</l>
+                  <l>Five bouts, till at laſt his fierce fury aſwag'd,</l>
+                  <l>He fought as if he bad been <hi>Mars</hi> his own ſon,</l>
+                  <l>From ten in the morning, till three afternoon.</l>
+                  <l>Our Red and our White</l>
+                  <l>Did dazel his ſight,</l>
+                  <l>they made him to turn and to run away quite,</l>
+                  <l>For no other reaſon as ſome men ſuppoſe</l>
+                  <l>But courage did fall from his heart to his hoſe:</l>
+                  <l>Though bad men ſéek victory, and think to win it</l>
+                  <l>It never will proſper, if God be not in it.</l>
+               </lg>
+               <lg>
+                  <l>Our Frigots perſued him, our Canons did roare,</l>
+                  <l>Vntil they were come within two miles of ſhore<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Our great Ships perſu'd, &amp; continu'd y<hi rend="sup">e</hi> ſlaughter,</l>
+                  <l>So far till they were within ſix fathom water:</l>
+                  <l>They durſt not look back,</l>
+                  <l>To ſee what we lack,</l>
+                  <l>but poſting for life, to their Harbours they tack;</l>
+                  <l>Their Flags being ſtruck, and not ſet up again,</l>
+                  <l>'Tis thought that <hi>Ven Trump</hi> &amp; <hi>Du Ruiter</hi> is ſlain.</l>
+                  <l>He that doth protect us, will ſave us from evil,</l>
+                  <l>In ſpight of the <hi>Dutch,</hi> the <hi>Dane,</hi> or the <hi>Devil.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Beſides all the damage our Shipping hath done,</l>
+                  <l>To Veſſels &amp; men, in their fight, and their run.</l>
+                  <l>Two very ſtout Ships we have taken and fir'd.</l>
+                  <l>And in them five hundred and ninety men tyr'd,</l>
+                  <l>With tagging for that,</l>
+                  <l>They cannot get at.</l>
+                  <l>to make <hi>England</hi> ſtoop to their pittyful State;</l>
+                  <l>When ſlaves are turn'd princes, no tyrants ſo evil</l>
+                  <l>When beggers are mounted, they ride to y<hi rend="sup">e</hi> Devil</l>
+                  <l>No Souls ſo inſulting as ſuch ſordid Slaves,</l>
+                  <l>As climb to preferment on honeſt mens graves.</l>
+               </lg>
+               <lg>
+                  <l>Our Gen'rals and Navy, are all ſafe and ſound,</l>
+                  <l>The Prince; &amp; the Duke have our foes in y<hi rend="sup">e</hi> pound</l>
+                  <l>They in their own Harbors are priſ'ners at eaſe,</l>
+                  <l>The King of great <hi>Brittain</hi> Commands where he pleaſe.</l>
+                  <l>VVe ride on the Ocean,</l>
+                  <l>And waite for the Motion,</l>
+                  <l>to venter again they have no great devotion,</l>
+                  <l>had they not crept in, they'd been burnt to a cinder</l>
+                  <l>And <hi>Holland</hi> by this time, had béen turn'd to tinder</l>
+                  <l>God bleſs King &amp; Quéen, with y<hi rend="sup">e</hi> Duke, &amp; all ſuch,</l>
+                  <l>As are friends to great <hi>Brittain,</hi> &amp; foes to the <hi>Dutch.</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> F. Crowch, <hi>for F.</hi> Coles, T. Vere, <hi>and</hi> J Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
